@@ -1,7 +1,3 @@
-Aqui está uma versão mais detalhada e estruturada do README para o seu projeto CadLogin System:
-
----
-
 # CadLogin System 🔐
 Este projeto é um sistema de cadastro e login desenvolvido com o padrão de arquitetura MVC, como parte de uma avaliação da disciplina de Programação Web II.
 
